@@ -1,4 +1,4 @@
-pageguide.js
+ZestCore - pageguide.js
 ============
 
 An interactive guide for web page elements using jQuery and CSS3.
